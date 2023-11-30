@@ -1,0 +1,21 @@
+/*.LeonDeOro {
+  width: 100%; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.LeonDeOro img {
+  max-width: 764px;
+  max-height: 764px;
+  width: 100%;
+  height: auto;
+}*/
+.leonDeOro {
+  text-align: center;
+  padding: 10px;
+}
+
+.leonDeOro img {
+  max-width: 100%;
+}

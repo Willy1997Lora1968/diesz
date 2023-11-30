@@ -1,0 +1,7 @@
+.mi-titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto; 
+  margin-bottom: 100px;
+}

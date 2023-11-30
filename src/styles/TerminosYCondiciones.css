@@ -1,0 +1,24 @@
+.terminosYCondiciones {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.terminosYCondiciones h1,
+.terminosYCondiciones h2,
+.terminosYCondiciones p,
+.terminosYCondiciones ul {
+  max-width: 800px;
+}
+
+@media screen and (max-width: 800px) {
+  .terminosYCondiciones h1,
+  .terminosYCondiciones h2,
+  .terminosYCondiciones p,
+  .terminosYCondiciones ul {
+    width: 100%;
+  }
+}

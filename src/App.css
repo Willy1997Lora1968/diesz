@@ -1,0 +1,41 @@
+@media (max-width: 600px) {
+  .Titulo {
+    font-size: 24px;
+  }
+
+  .Texto {
+    font-size: 18px;
+  }
+
+  .LeonDeOro img {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+  .Titulo {
+    font-size: 28px;
+  }
+
+  .Texto {
+    font-size: 22px;
+  }
+
+  .LeonDeOro img {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 901px) {
+  .Titulo {
+    font-size: 32px;
+  }
+
+  .Texto {
+    font-size: 26px;
+  }
+
+  .LeonDeOro img {
+    max-width: 25%;
+  }
+}

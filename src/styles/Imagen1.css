@@ -1,0 +1,15 @@
+/*Imagen1.css*/
+.Imagen1 {
+  width: 270px;
+  height: 270px;
+  display: flex;
+  
+}
+
+.Imagen1, imagen {
+  
+  position: relative;
+  position: left;
+}
+  
+
